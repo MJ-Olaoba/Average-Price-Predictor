@@ -24,7 +24,7 @@ To set up this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/adnoc-predictive-model.git
+   git clone https://github.com/MJ-Olaoba/adnoc-predictive-model.git
    cd adnoc-predictive-model
    ```
 
